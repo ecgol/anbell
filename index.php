@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // +----------------------------------------------------------------------
 // | ThinkPHP [ WE CAN DO IT JUST THINK ]
 // +----------------------------------------------------------------------
@@ -22,7 +22,7 @@ define('APP_DEBUG',True);
 
 
 
-define('APP_PATH','./sys2do/');
+define('APP_PATH','./apps/');
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
 
